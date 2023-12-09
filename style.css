@@ -1,0 +1,25 @@
+section{
+   width: 100%;
+  height: 200px;
+  background-color: green;
+}
+
+.bloc1 {
+  float: left;
+  width: 50%;
+  height: 600px;
+  background-color: lavender;
+}
+
+.bloc2 {
+  float: right;
+  width: 50%;
+  height: 600px;
+  background-color: burlywood;
+}
+footer{
+   clear: both;
+  width: 100%;
+  height: 200px;
+  background-color: green;
+}
